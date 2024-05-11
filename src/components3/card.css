@@ -1,0 +1,11 @@
+.card{
+    border: 1px solid var(--secondary);
+    border-radius: 10px;
+    
+}
+
+.infoCard{
+    background-color: var(--primary);
+    color: aliceblue;
+    
+}

@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+    background-color: var(--secondary);
+    height: 150 px;
+    max-width: 220px;
+    border-radius: 15px;
+    margin: 20px auto;
+    gap: 20px;
+};
+
+.h2 {
+    margin-top: 500px;
+}
